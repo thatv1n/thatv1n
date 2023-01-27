@@ -3,7 +3,7 @@
 ### I am Frontend Developer (React JS)
 ![image](https://cs8.pikabu.ru/post_img/2017/04/25/3/1493091919167326465.gif)
 
-### My stack
+### Tech Stack
 ![image](https://user-images.githubusercontent.com/39708462/215012839-70172cb0-6585-41db-8612-39441acc6a9a.png)
 ![image](https://user-images.githubusercontent.com/39708462/215012874-306df7f0-c7c3-49b7-925d-7e381f84ba5a.png)
 ![image](https://user-images.githubusercontent.com/39708462/215012853-d68a6035-1f5d-4511-8b3a-c719f74f55cd.png)
